@@ -19,7 +19,7 @@ Computer Vision: OpenCV.
 
 Optimization: Threading & Concurrent Execution.
 
-> Project Structure
+-> Project Structure
 group_recog.py: The core script handling the camera feed, threading, and recognition logic.
 
 employees/: (Required) A folder containing subdirectories or images of authorized personnel.
